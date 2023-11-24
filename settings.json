@@ -1,0 +1,26 @@
+{
+    "workbench.colorTheme": "CodeSandbox",
+        "editor.fontSize": 14,
+        "editor.fontFamily": "'Fira Code'",
+        "editor.fontLigatures": true,
+        "workbench.colorCustomizations": {
+            "[CodeSandbox]": {
+                "activityBar.background": "#151515",
+                "activityBarBadge.foreground": "#151515",
+                "activityBar.border": "#151515",
+                "sideBar.background": "#151515",
+                "sideBarSectionHeader.border": "#151515",
+                "sideBar.border": "#151515",
+                "statusBar.background": "#151515",
+                "statusBar.border": "#151515",
+                "tab.inactiveBackground": "#151515",
+                "titleBar.activeBackground": "#151515",
+                "titleBar.border": "#151515",
+                "titleBar.inactiveBackground": "#151515",
+                "menu.selectionBorder": "#151515",
+                "menu.border": "#151515",
+                "editorGroupHeader.border": "#151515",
+                "editorGroupHeader.tabsBackground": "#151515"
+            }
+        }
+}
